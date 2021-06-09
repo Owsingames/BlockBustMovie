@@ -1,0 +1,13 @@
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\obj\Debug\netcoreapp3.1\Blockbuster Movie.csprojAssemblyReference.cache
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\obj\Debug\netcoreapp3.1\Blockbuster Movie.AssemblyInfoInputs.cache
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\obj\Debug\netcoreapp3.1\Blockbuster Movie.AssemblyInfo.cs
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\obj\Debug\netcoreapp3.1\Blockbuster Movie.csproj.CoreCompileInputs.cache
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\bin\Debug\netcoreapp3.1\Blockbuster Movie.exe
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\bin\Debug\netcoreapp3.1\Blockbuster Movie.deps.json
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\bin\Debug\netcoreapp3.1\Blockbuster Movie.runtimeconfig.json
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\bin\Debug\netcoreapp3.1\Blockbuster Movie.runtimeconfig.dev.json
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\bin\Debug\netcoreapp3.1\Blockbuster Movie.dll
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\bin\Debug\netcoreapp3.1\Blockbuster Movie.pdb
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\obj\Debug\netcoreapp3.1\Blockbuster Movie.dll
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\obj\Debug\netcoreapp3.1\Blockbuster Movie.pdb
+D:\GrandCircus\Week3\Lab11 - Blockbuster Movie\Blockbuster Movie\Blockbuster Movie\obj\Debug\netcoreapp3.1\Blockbuster Movie.genruntimeconfig.cache

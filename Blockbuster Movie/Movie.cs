@@ -43,11 +43,9 @@ namespace Blockbuster_Movie
         //display all movie scenes
         public virtual void PrintScenes()
         {
-            Console.WriteLine($"{Title} Scenes");
             for(int i = 0; i < Scenes.Count; i++)
             {
-                Console.WriteLine($"Scene {i}: {Scenes[i]}");
-
+                Console.WriteLine(Scenes[i]);
             }
         }
 
@@ -55,7 +53,6 @@ namespace Blockbuster_Movie
         {
             Console.WriteLine("Playing movie");
             PrintScenes();
-
         }
     }
 }

@@ -19,7 +19,7 @@ namespace Blockbuster_Movie
                 }
                 Console.WriteLine();
                 //get and validate user input
-                var index = GetUserInput("Please select a movie you want to watch");
+                var index = GetUserInput("Please select a movie you want to watch using the index");
                 
 
                 //compare user input to moive and print information about movie

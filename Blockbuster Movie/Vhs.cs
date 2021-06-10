@@ -14,7 +14,6 @@ namespace Blockbuster_Movie
             : base(Title, Runtime, genre, Scenes)
         {
             CurrentTime = 0;
-
         }
 
         //Methods
@@ -22,18 +21,13 @@ namespace Blockbuster_Movie
         {
             CurrentTime = 0;
         }
+
         public override void Play()
         {
-            if(CurrentTime <= 5)
+            Console.WriteLine("Playing Movie Scenes:");
+            for (int i = 0; i < Scenes.Count; i++)
             {
-                foreach(string scene in Scenes)
-                {
-                    Console.WriteLine(scene);
-                }
-            }
-            else
-            {
-                Console.WriteLine("Please rewind the video.");
+                Console.WriteLine(Scenes[i]);
             }
         }
 

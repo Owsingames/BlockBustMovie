@@ -17,7 +17,7 @@ namespace Blockbuster_Movie
             Console.WriteLine("Playing Movie Scenes:");
             for(int i = 0; i < Scenes.Count; i++)
             {
-                Console.WriteLine($"{Scenes[i]}");
+                Console.WriteLine(Scenes[i]);
             } 
         }
         public override void PrintInfo()
